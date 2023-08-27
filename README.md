@@ -1,6 +1,8 @@
 # Honda-Analysis
 This project is part of my data science portfolio and was created to showcase some of the skills I have learned since I started my journey into programming and data science!
 
+Please refer to the .ipynb file for the project code.
+
 ### Introduction
 The purpose of this project is to create a prediction algorithm using a Linear Regression for used Honda cars in the United States. 
 Specifically, prices will be predicted based on data from vehicles such as mileage, year, MPG, fuel type, and more.
